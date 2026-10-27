@@ -4,10 +4,10 @@ Halo teman-teman, selamat datang di ruang tempat saya berlatih untuk menjadi and
 saya ingin mengetahui apa saja fundamental dasar android development dari nol hingga mahir untuk menjadi pengembang aplikasi navigasi GPS gratis dan bersumber dari open-source
 
 ## Peta Jalan Belajar Android Development
-1. [] Dasar-dasar kotlin
-2. [] Membuat UI dengan Jetpack Compose
-3. [] Integrasi API & Networking (Termasuk MapLibre beserta mesin perutean dan MapLibre Navigation Core)
-4. [] Arsitektur Model-View-ViewModel (MVVM) & Clean Architecture
+1. **[] Dasar-dasar kotlin**
+2. **[] Membuat UI dengan Jetpack Compose jika perlu**
+3. **[] Integrasi API & Networking (Termasuk MapLibre beserta mesin perutean dan MapLibre Navigation Core)**
+4. **[] Arsitektur Model-View-ViewModel (MVVM) & Clean Architecture**
 
 ## Struktur Latihan
 * **01-Fundamental-Kotlin**: Latihan logika dasar dan Object-Oriented-Programming (OOP) Kotlin
@@ -17,4 +17,4 @@ saya ingin mengetahui apa saja fundamental dasar android development dari nol hi
 * **Bahasa**: Kotlin
 * **IDE**: Android Studio
 * **Arsitektur**: Model-View-ViewModel (MVVM)
-* **Library Utama**: Jetpack Compose, Retrofit, Gson, hingga ke MapLibre untuk pembuatan peta navigasi GPS
+* **Library Utama**: Jetpack Compose jika perlu, Retrofit, Gson, hingga ke MapLibre untuk pembuatan peta navigasi GPS
